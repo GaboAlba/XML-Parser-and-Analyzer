@@ -1,0 +1,5 @@
+ply~=3.11
+pandas~=1.4.4
+streamlit~=1.13.0
+numpy~=1.23.3
+plotly~=5.10.0
